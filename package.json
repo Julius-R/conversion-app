@@ -1,0 +1,19 @@
+{
+  "name": "conversion-app",
+  "version": "1.0.0",
+  "description": "A simple conversion app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julius-R/conversion-app.git"
+  },
+  "author": "Julius Robinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julius-R/conversion-app/issues"
+  },
+  "homepage": "https://github.com/Julius-R/conversion-app#readme"
+}
